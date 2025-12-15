@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey there, I’m Sarbajit 👋
+DevOps / Cloud engineer in Germany. I like taking messy delivery setups and turning them into reliable pipelines and systems.
 
-<!--
-**SarbajitChatterjee/SarbajitChatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies & Tools
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,aws,terraform,jenkins,githubactions,ansible,kubernetes,prometheus,grafana,python" />
 
-Here are some ideas to get you started:
+### Featured Projects (start here)
+- 🚀 **DevOps CI/CD Pipeline Demo** — Jenkins + quality gate + deploy workflow: [DevOps-Jenkins-SonarQube-AWS](https://github.com/SarbajitChatterjee/DevOps-Jenkins-SonarQube-AWS)
+- 🧱 **Portfolio Index** — my projects grouped + explained: [sarbajit-portfolio](https://github.com/SarbajitChatterjee/sarbajit-portfolio)
+- 🔭 **Next build (in progress)** — Terraform + AWS + monitoring lab (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you can expect from my repos
+- Clear README + “how to run”
+- Architecture diagram
+- Evidence (screenshots/logs) instead of just claims
+
+### Let’s connect
+- LinkedIn: https://www.linkedin.com/in/sarbajitc/
