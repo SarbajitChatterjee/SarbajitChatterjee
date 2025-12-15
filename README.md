@@ -2,7 +2,7 @@
 DevOps / Cloud engineer in Germany. I like taking messy delivery setups and turning them into reliable pipelines and systems.
 
 ### Technologies & Tools
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,aws,terraform,jenkins,githubactions,ansible,kubernetes,prometheus,grafana,python" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,aws,terraform,jenkins,githubactions,ansible,grafana,python" />
 
 ### Featured Projects (start here)
 - 🚀 **DevOps CI/CD Pipeline Demo** — Jenkins + quality gate + deploy workflow: [DevOps-Jenkins-SonarQube-AWS](https://github.com/SarbajitChatterjee/DevOps-Jenkins-SonarQube-AWS)
