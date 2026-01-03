@@ -45,14 +45,5 @@ Theme: **Reimagining the Future of Finance with AI** — exploring how AI could 
 
 ---
 
-## How my repos are structured
-- **Quickstart:** run in 2–5 minutes (commands / docker compose)
-- **Architecture:** diagram + data flow
-- **Evidence:** screenshots, sample outputs, pipeline stages
-- **Notes:** trade-offs + next improvements
-- **Roadmap:** milestones + what’s next
-
----
-
 ## Let’s connect
 - LinkedIn: https://www.linkedin.com/in/sarbajitc/
