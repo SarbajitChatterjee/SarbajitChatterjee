@@ -17,19 +17,6 @@ MBA (European Management & Entrepreneurship) — I like linking technical decisi
 
 ---
 
-## Featured Projects (start here)
-- 🚀 **DevOps CI/CD Pipeline Demo** — Jenkins + quality gate + deploy workflow  
-  → [DevOps-Jenkins-SonarQube-AWS](https://github.com/SarbajitChatterjee/DevOps-Jenkins-SonarQube-AWS)
-
-- 🧭 **Portfolio Index** — projects grouped + explained (fast scan)  
-  → [sarbajit-portfolio](https://github.com/SarbajitChatterjee/sarbajit-portfolio)
-
-- 🏁 **Future Pioneers: Paris Edition (ODDO BHF) — Hackathon Prototype (WIP)**  
-  AI-driven finance prototype; building towards Paris finals (Jan 22–23, 2026)  
-  → [Hackathon_Team-6_Jarvis](https://github.com/SarbajitChatterjee/Hackathon_Team-6_Jarvis)
-
----
-
 ## Current focus (ODDO BHF / Future Pioneers)
 I’m part of **Future Pioneers: Paris Edition** — an innovation journey co-organised by **ODDO BHF, SouthwestX, and Triathlon (Saarland University)**.  
 Theme: **Reimagining the Future of Finance with AI** — exploring how AI could reshape financial services over the next five years.
