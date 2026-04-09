@@ -44,11 +44,11 @@ What I enjoy most in this project:
 
 ## Selected work 🛠️
 
-### [Robbie Calendar](https://github.com/SarbajitChatterjee/Robbie-calendar) 🗓️
+### 🏗️ [Robbie Calendar](https://github.com/SarbajitChatterjee/Robbie-calendar) 🗓️
 An AI-powered calendar assistant that understands natural language to help users manage their schedule more intuitively.  
 This project reflects my interest in **conversational interfaces**, **AI-assisted productivity tools**, and building experiences where **AI fits naturally into everyday workflows** rather than feeling like an add-on.
 
-### [MatchesNearby](https://github.com/SarbajitChatterjee/MatchesNearby) ⚽
+### 🏗️ [MatchesNearby](https://github.com/SarbajitChatterjee/MatchesNearby) ⚽
 A personal app idea focused on helping users discover ongoing or upcoming sports matches around a location.  
 This project reflects my interest in **user-facing systems**, **location-aware experiences**, and **digital product thinking**.
 
