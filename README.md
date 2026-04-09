@@ -44,6 +44,10 @@ What I enjoy most in this project:
 
 ## Selected work 🛠️
 
+### [Robbie Calendar](https://github.com/SarbajitChatterjee/Robbie-calendar) 🗓️
+An AI-powered calendar assistant that understands natural language to help users manage their schedule more intuitively.  
+This project reflects my interest in **conversational interfaces**, **AI-assisted productivity tools**, and building experiences where **AI fits naturally into everyday workflows** rather than feeling like an add-on.
+
 ### [MatchesNearby](https://github.com/SarbajitChatterjee/MatchesNearby) ⚽
 A personal app idea focused on helping users discover ongoing or upcoming sports matches around a location.  
 This project reflects my interest in **user-facing systems**, **location-aware experiences**, and **digital product thinking**.
@@ -55,12 +59,12 @@ Here I worked across **architecture**, **implementation**, and **integration** t
 **Timeline**
 - Hackathon build phase (Saarbrücken): **Nov 27–29, 2025**
 - Finals / pitches at **ODDO BHF Headquarters in Paris**: **Jan 22–23, 2026**
-
+  
 **My contribution**
 - IT architecture (UIUX, components, data flow, integration boundaries)
 - Hands-on implementation + integration for an end-to-end demo
 - Delivery readiness: repeatable setup steps, stability, and observability
-
+  
 ### [ApplyJobAI](https://github.com/SarbajitChatterjee/ApplyJobAI) 👔
 A practical tool that helps generate tailored CVs and motivation letters.  
 This project sits at the intersection of **automation**, **AI-assisted workflows**, and **user-oriented problem solving**.
