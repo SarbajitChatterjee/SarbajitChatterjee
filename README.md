@@ -44,34 +44,67 @@ What I enjoy most in this project:
 
 ## Selected work 🛠️
 
-### 🏗️ [Robbie Calendar](https://github.com/SarbajitChatterjee/Robbie-calendar) 🗓️
-An AI-powered calendar assistant that understands natural language to help users manage their schedule more intuitively.  
-This project reflects my interest in **conversational interfaces**, **AI-assisted productivity tools**, and building experiences where **AI fits naturally into everyday workflows** rather than feeling like an add-on.
-
-### 🏗️ [MatchesNearby](https://github.com/SarbajitChatterjee/MatchesNearby) ⚽
-A personal app idea focused on helping users discover ongoing or upcoming sports matches around a location.  
-This project reflects my interest in **user-facing systems**, **location-aware experiences**, and **digital product thinking**.
-
 ### [Hackathon Team 6 – Jarvis](https://github.com/SarbajitChatterjee/Hackathon_Team-6_Jarvis) 💹
-An AI-driven finance prototype built for the Future Pioneers challenge.  
-Here I worked across **architecture**, **implementation**, and **integration** to help shape a usable concept into a working demo.
+An AI-driven finance prototype built for the Future Pioneers challenge held by ODDO BHF in association with SouthwestX and Triathlon.  
+Here I worked across on the overall **architecture**, **implementation**, and **integration** of the technical side of the project to help shape a theoretical concept into a working demo.
 
 **Timeline**
 - Hackathon build phase (Saarbrücken): **Nov 27–29, 2025**
 - Finals / pitches at **ODDO BHF Headquarters in Paris**: **Jan 22–23, 2026**
   
 **My contribution**
-- IT architecture (UIUX, components, data flow, integration boundaries)
+- Product architecture (UIUX, architecture, data flow, integration, workflows)
 - Hands-on implementation + integration for an end-to-end demo
-- Delivery readiness: repeatable setup steps, stability, and observability
-  
-### [ApplyJobAI](https://github.com/SarbajitChatterjee/ApplyJobAI) 👔
-A practical tool that helps generate tailored CVs and motivation letters.  
-This project sits at the intersection of **automation**, **AI-assisted workflows**, and **user-oriented problem solving**.
+- Delivery readiness: regression tests, infrastructure stability, and observability
+
+### [NERV – Tesla Giga Berlin hackathon](https://github.com/ShreyanshTripathi/BusinessmeetsTechHackathon) 🏭
+A 20-hour Hackathon "Business Meets Tech" is WHU's student-led tech initiative. Its 2026 edition took place at WHU – Otto Beisheim School of Management in Vallendar, Koblenz on September 25–26, 2026, with Tesla as main partner for over 50 business and tech students.
+
+**The challenge**
+
+- Tesla's "Built for the Job" (Application Engineering, AI Adoption): make one production role meaningfully better with AI
+- We chose the Production Supervisor, who today works out staffing gaps, quality problems and safety alerts by hand
+
+**What we built**
+
+NERV, a central intelligence for the factory floor:
+
+- Three agents watch the line: Staffing, General Assembly, Fire & Safety.
+- A central layer merges their findings into incidents, ranks them with safety first and recommends actions: who to send, which team to call.
+- Random forests forecast staffing gaps, missed output targets and near-miss severity; Claude powers a chat copilot and plain-language explanations.
+- Voice alerts go to the Production Supervisor as a short coded phrase, e.g. "Code RED | Assembly line | FA100", so they can act without looking at a screen.
+- On the dashboard, the same alert opens with the full detail and context behind the code.
+- The supervisor sees at most three decisions at a time, and a human makes every decision.
+
+**My contribution**
+
+- Built the dashboard in Lovable and merged it into the team repo as a `frontend` branch
+- Connected it to the FastAPI backend over REST and WebSocket, with a mock-data fallback while the backend wakes up
+- Basic regression tests within the 20 hours
+
+### [HAL – spending rules for AI agents](https://github.com/SarbajitChatterjee/SolanaChallenge-HAL-payments) 🛡️
+
+AI agents buy what they need within limits a person sets: small purchases go through, big ones wait for approval, unknown sellers are blocked, and a kill switch stops everything. Every payment is USDC on Solana's test network with a receipt.
+FastAPI on Render, Supabase Postgres, frontend built with Lovable. Budget checks lock the agent's row in the database, so parallel purchases can't overspend.
+Built for Superteam Germany's Solana challenge at WHU and submitted in October 2026. Test network only, no real money.
+Live demo: https://solana-hal-payments.lovable.app/ (currently servers are down to save freemium resoources). Hit me up if you are hyped to look into!
+
+### 🏗️ [Robbie Calendar](https://github.com/SarbajitChatterjee/Robbie-calendar) 🗓️
+An AI-powered calendar aggregator that understands natural language to help users manage their schedule more intuitively: React/TypeScript frontend, FastAPI on Render, Supabase.
+Calendar and event data goes through the API, while auth and settings go straight to Supabase.
+Next step: **Extracting of events/appointments from the natural-language scheduling with the help of a local LLM (Qwen3-8B)**.
 
 ### [DevOps Jenkins SonarQube AWS](https://github.com/SarbajitChatterjee/DevOps-Jenkins-SonarQube-AWS) ⚙️
 A CI/CD demo project with Jenkins, SonarQube, Docker, and AWS.  
 It represents my stronger engineering side: **delivery pipelines**, **quality gates**, and **deployable systems**.
+
+### [ApplyJobAI](https://github.com/SarbajitChatterjee/ApplyJobAI) 👔
+A practical tool that helps generate tailored CVs and motivation letters.  
+This project sits at the intersection of **automation**, **AI-assisted workflows** through a local LLM, and **user-oriented problem solving**.
+
+### 🏗️ [MatchesNearby](https://github.com/SarbajitChatterjee/MatchesNearby) ⚽
+A personal app idea focused on helping users discover ongoing or upcoming sports matches around a location.  
+This project reflects my interest in **user-facing systems**, **location-aware experiences**, and **digital product thinking**.
 
 ---
 
