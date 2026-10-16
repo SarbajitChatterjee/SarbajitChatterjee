@@ -44,7 +44,7 @@ What I enjoy most in this project:
 
 ## Selected work 🛠️
 
-### [Hackathon Team 6 – Jarvis](https://github.com/SarbajitChatterjee/Hackathon_Team-6_Jarvis) 💹
+### [Jarvis - Future Pioneers Hackathon Paris edition 2026](https://github.com/SarbajitChatterjee/Hackathon_Team-6_Jarvis) 💹
 An AI-driven finance prototype built for the Future Pioneers challenge held by ODDO BHF in association with SouthwestX and Triathlon.  
 Here I worked across on the overall **architecture**, **implementation**, and **integration** of the technical side of the project to help shape a theoretical concept into a working demo.
 
@@ -57,7 +57,7 @@ Here I worked across on the overall **architecture**, **implementation**, and **
 - Hands-on implementation + integration for an end-to-end demo
 - Delivery readiness: regression tests, infrastructure stability, and observability
 
-### [NERV – Tesla Giga Berlin hackathon](https://github.com/ShreyanshTripathi/BusinessmeetsTechHackathon) 🏭
+### [NERV – Business Meets Tech X Tesla Hackathon Koblenz 2026](https://github.com/ShreyanshTripathi/BusinessmeetsTechHackathon) 🏭
 A 20-hour Hackathon "Business Meets Tech" is WHU's student-led tech initiative. Its 2026 edition took place at WHU – Otto Beisheim School of Management in Vallendar, Koblenz on September 25–26, 2026, with Tesla as main partner for over 50 business and tech students.
 
 **The challenge**
