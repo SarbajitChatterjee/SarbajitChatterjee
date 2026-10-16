@@ -2,7 +2,7 @@
 
 Computer science engineer + MBA, based in Germany — I like building **interactive digital products** and linking technical decisions to **delivery impact and business outcomes**.
 
-My background started in software delivery, automation, and quality engineering. Over time, I became more interested in a bigger question: **How do we build digital systems that are not only functional but also useful, scalable, and worth using?** I am particularly interested in understanding how to effectively leverage **AI** in today's context.
+My background started in software delivery, automation, and quality engineering. Over time, I became more interested in a bigger question: **How do we build digital systems that are not only functional but also useful, scalable, and worth using?** On that note, I am particularly interested in understanding how to effectively leverage **AI** in today's context.
 
 That is where my interest in **product thinking**, **strategy**, **system reliability**, and **AI** comes together.
 
@@ -109,7 +109,7 @@ This project reflects my interest in **user-facing systems**, **location-aware e
 ---
 
 ## Current direction 📚
-Right now, I’m growing further in:
+Right now, I’m looking for opportunities to learn and grow further in:
 - **Interactive and digital product development**
 - **Applied AI for real workflows**
 - **Reliable system design and automation**
@@ -119,3 +119,4 @@ Right now, I’m growing further in:
 
 ## Let’s connect 🤝
 - LinkedIn: https://www.linkedin.com/in/sarbajitc/
+- Email: sarbajitchatterjee09@gmail.com
