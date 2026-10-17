@@ -82,12 +82,13 @@ NERV, a central intelligence for the factory floor:
 - Connected it to the FastAPI backend over REST and WebSocket, with a mock-data fallback while the backend wakes up
 - Basic regression tests within the 20 hours
 
-### [HAL – spending rules for AI agents](https://github.com/SarbajitChatterjee/SolanaChallenge-HAL-payments) 🛡️
+### [HAL – Solana Challenge 2026 - spending rules for AI agents](https://github.com/SarbajitChatterjee/SolanaChallenge-HAL-payments) 🛡️
 
+Built for [Superteam Germany's Solana challenge](https://superteam.fun/earn/listing/build-at-whu/) and submitted in October 2026. Test network only, no real money.
 AI agents buy what they need within limits a person sets: small purchases go through, big ones wait for approval, unknown sellers are blocked, and a kill switch stops everything. Every payment is USDC on Solana's test network with a receipt.
 FastAPI on Render, Supabase Postgres, frontend built with Lovable. Budget checks lock the agent's row in the database, so parallel purchases can't overspend.
-Built for Superteam Germany's Solana challenge at WHU and submitted in October 2026. Test network only, no real money.
-Live demo: https://solana-hal-payments.lovable.app/ (currently servers are down to save freemium resoources). Hit me up if you are hyped to look into!
+
+Live demo: https://solana-hal-payments.lovable.app/ (currently servers are down to save resources). Hit me up if you are pumped to see it!
 
 ### 🏗️ [Robbie Calendar](https://github.com/SarbajitChatterjee/Robbie-calendar) 🗓️
 An AI-powered calendar aggregator that understands natural language to help users manage their schedule more intuitively: React/TypeScript frontend, FastAPI on Render, Supabase.
