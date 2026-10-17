@@ -93,7 +93,8 @@ Live demo: https://solana-hal-payments.lovable.app/ (currently servers are down 
 ### 🏗️ [Robbie Calendar](https://github.com/SarbajitChatterjee/Robbie-calendar) 🗓️
 An AI-powered calendar aggregator that understands natural language to help users manage their schedule more intuitively: React/TypeScript frontend, FastAPI on Render, Supabase.
 Calendar and event data goes through the API, while auth and settings go straight to Supabase.
-Next step: **Extracting of events/appointments from the natural-language scheduling with the help of a local LLM (Qwen3-8B)**.
+
+⏭️ **Next step: Extracting of events/appointments from the natural-language scheduling with the help of a LLM (Qwen3-8B) that would be setup locally**.
 
 ### [DevOps Jenkins SonarQube AWS](https://github.com/SarbajitChatterjee/DevOps-Jenkins-SonarQube-AWS) ⚙️
 A CI/CD demo project with Jenkins, SonarQube, Docker, and AWS.  
