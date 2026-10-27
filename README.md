@@ -49,8 +49,8 @@ An AI-driven finance prototype built for the Future Pioneers challenge held by O
 Here I worked across on the overall **architecture**, **implementation**, and **integration** of the technical side of the project to help shape a theoretical concept into a working demo.
 
 **Timeline**
-- Hackathon build phase (Saarbrücken): **Nov 27–29, 2025**
-- Finals / pitches at **ODDO BHF Headquarters in Paris**: **Jan 22–23, 2026**
+- Hackathon Ideation phase (Saarbrücken): **Nov 27–29, 2025**
+- Finals / MVP pitches at **ODDO BHF Headquarters in Paris**: **Jan 22–23, 2026**
   
 **My contribution**
 - Product architecture (UIUX, architecture, data flow, integration, workflows)
